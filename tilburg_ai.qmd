@@ -1,0 +1,193 @@
+---
+title: "Advancing Society: Getting Tilburg University AI-ready"
+subtitle: "Educate, Experiment, Innovate"
+format:
+  revealjs: 
+    logo: img/logo.png
+    slide-number: true
+    slide-level: 3
+    controls: true
+    transition: fade
+    background-transition: fade
+    preview-links: auto
+    theme: theme.scss
+    #incremental: true
+    title-slide-attributes:
+      data-background-image: "img/title-background.jpg" 
+      data-background-opacity: "0.15"
+      data-background-size: cover
+      data-background-color: "#036"
+---
+
+## Future Vision for Universities 
+
+- Algorithmic approach to course allocation
+- Personalized studying experience
+- Budget allocation to course developers and teachers
+- Automated scheduling based on predicted attendance
+- Summarized lectures and slide decks for otherwise engaged students
+- Professors can focus on coaching and developing new ideas
+- AI technology revolutionizes higher education
+
+# Agenda & Purpose
+
+1.  What is AI?
+2.  How do we already use AI?
+3.  What are new ways in which we can use it?
+4.  How to get AI-ready?
+
+
+## Who am I?
+- Hannes Datta; Assoc. Prof at TiU for ten years since 2013
+- Working in marketing, studying digital markets
+- Alumnus of Tilburg Young Academy
+- Lead at Tilburg Science Hub
+
+. . .
+
+**Disclaimer**
+
+- Not an AI researcher, but love technology
+- Quant researcher from TiSEM
+- Focusing on university, not workplaces
+
+# 1. What's AI <br>(and what it's not)?{background-color="#036"}
+
+## What's AI (and what it's not)?
+- AI is not as new as we think
+- Algorithms are everywhere
+- Some examples of AI applications that you may have already come across:
+  - TurnItIn [Canvas tool for plagiarism]
+  - Grammarly / Editor in Office
+  - Smart email replies in Outlook, or "play my email" on mobile<br>
+...many more at futurepedia.io
+
+## How does AI work?
+- Data -> Model -> Results
+- Interact, make predictions, etc.
+- Looks like a regression!
+
+![<font size="2" color=grey> Data pipeline by [OVHcloud](https://www.ovhcloud.com/en-gb/public-cloud/journey-paas/ai/) </font>](img/data-pipeline.png)
+
+### ChatGPT {.smaller}
+**Innovation in ChatGPT:**
+
+- Specialized API vs general-purpose AI
+- Trained on massive input data with a live connection to the internet at Bing
+- Iterative input
+
+**How to use ChatGPT:**
+
+- Put it into a specific mode [prompting]
+- Start a conversation
+
+**Background:**
+
+- It's a language predictor model
+- Generates unexpected results
+
+#
+![<font color=grey> Example: use of ChatGPT </font>](img/chatgpt.png)
+
+# 2. How is AI already <br>being used at <br>Tilburg University?{background-color="#036"}
+
+## How is AI already being used at TiU? {.smaller}
+::: goal
+AI is widely experimented with by researchers and teachers across TiU.
+:::
+
+**Teaching from a teacher's perspective:**
+
+- Generating and/or improving syllabi, lecture outlines, and exam questions
+- Automation and 'stitching together' different systems
+- Finding examples and case studies
+- Putting subtitles on a video
+- More interactions in class & more engaging slides 
+
+**Teaching from a student's perspective:**
+
+- Fixing or annotating computer code
+- Writing and rewriting coach
+- A "virtual" Hannes Datta
+- Converting documents, finding jobs, and redesigning resumes
+
+## How is AI already being used at TiU? 
+**Research:**
+
+- GitHub copilot: 80% fewer coding tasks
+- Editing, proofreading, title generation
+- "A helping hand": drafting ideas, generating outlines, answering emails
+- Data collection and editing
+- Filling in forms
+- Generating stimuli
+- Summarizing articles
+
+# 3. What are new ways <br>in which we can use it?{background-color="#036"}
+
+## Future use cases of AI at TiU {.smaller}
+- **Better course content:**
+
+  - Automatic updating of course content
+  - Multimodal teaching: converting lectures into podcasts (or the other way around)
+  - Personalisation of admission requirements
+
+- **Performance assessment/testing & grading:**
+
+  - More formative testing, generation of open questions
+  - Automatic grading
+
+- **Scheduling:**
+
+  - Allocation of room schedules, flexibilization of education
+  - Budget and time allocation
+
+- **Personal coaching and career coaching**
+
+## Benefits of using AI at TiU 
+- Preparing students for the future job market
+- Time and money savings for faculty
+- Allows for investment in improving education and research
+
+**Examples of time-saving tasks:**
+
+- Filling in Excel sheets
+- Converting between Canvas
+- Automatically scheduling appointments
+
+## Risks if TiU doesn't embrace AI
+- Monetary implications: losing students to other universities
+- Falling behind in research output
+- Possibility of students and staff using AI illegally
+- Lack of modernization of infrastructure and inability to "connect"
+
+## Potential Drawbacks
+- Laziness of employees
+- Passing students who don't deserve it
+- Less interaction in class
+- Copying and cheating
+- Quality when automating
+- Ethical control
+- Trustworthiness concerns
+- Citation of AI-generated content
+
+
+## AI roadmap for Tilburg University{.smaller}
+- Embrace AI or risk becoming irrelevant
+- Encourage use and experimentation by involving students and young facult
+- Provide campus license of ChatGPT
+- Accelerate open science to transform research climate
+- Give researchers access to cloud service providers
+- Build meshups, plugins
+- Educate everyone on AI, from secretary to professor
+- Programming classes and more
+- Get infrastructure ready
+- Make data open and redefine data ownership
+
+# Conclusion{background-color="#036"}
+
+## Conclusion {.smaller}
+- Tilburg University is actively exploring the use of AI in various aspects of education and research
+- AI offers numerous benefits, such as personalisation, automation, and time and cost savings
+- However, there are also potential risks and drawbacks that need to be addressed, such as ethical concerns and the need for quality control
+- To successfully integrate AI, Tilburg University needs to encourage use and experimentation, involve students and young faculty, educate its staff, and get its infrastructure ready
+- Embracing AI is crucial for the university to stay relevant and competitive in the rapidly evolving landscape of higher education and research
