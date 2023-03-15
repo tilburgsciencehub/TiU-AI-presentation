@@ -1,6 +1,10 @@
 ---
 title: "Advancing Society: Getting Tilburg University AI-ready"
 subtitle: "Educate, Encourage, Experiment, Scale-up, Invest"
+<!--
+author: Hannes Datta
+date: "16 March 2023"
+-->
 format:
   revealjs: 
     logo: img/logo.png
@@ -125,7 +129,8 @@ __At Tilburg University__
   - Refinement
 :::
 
-#
+### 
+
 ![<font color=grey> Examplary use of ChatGPT: Prompt, ask & refine</font>](img/chatgpt.png)
 
 <!-- I need this example to be swapped to adhere to prompt, ask & refine. Plus an educational example, e.g., generating exam questions.-->
@@ -177,7 +182,7 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 - Ideation (e.g., generating outlines)
 - Research assistant (e.g., generating stimuli, summarizing articles)
 
-# 3. What are new ways <br>in which we can use AI?{background-color="#036"}
+# 3. Novel applications of AI{background-color="#036"}
 
 ## Automating the use of AI {.smaller}
 
@@ -252,9 +257,9 @@ __Risks when embracing AI__
 :::
 -->
 
-## Making Tilburg AI-ready! {.smaller}
+# 4. Making Tilburg<br>AI-ready!{background-color="#036"}
 
-### Making Tilburg AI-ready! {.smaller}
+## Making Tilburg AI-ready! {.smaller}
 
 - (1) Educate
   - staff and faculty (no-coding, coding, algorithmic) 
@@ -265,7 +270,7 @@ __Risks when embracing AI__
   - gather empirical evidence on what works well (and what not)
   - open up programmatic access to TiU infrastructure for app development (e.g., own data, common data; build mashups)
   
-### Making Tilburg AI-ready! {.smaller}
+## Making Tilburg AI-ready! {.smaller}
 
 - (4) Scale up
   - automate successful prototypes (e.g., course overhaul, assessment)
@@ -278,14 +283,41 @@ __Risks when embracing AI__
 Let's take the __courage__ and be __curious__ to embrace AI technology at Tilburg University!
 :::
 
-# Conclusion{background-color="#036"}
-
 ## Conclusion {.smaller}
-- Our faculty already explores the use of AI in various aspects of education and research -- __how does Tilburg Unviersity facilitate them?__
+- Our faculty already explores the use of AI in various aspects of education and research -- __how does Tilburg University facilitate them?__
 - AI offers numerous benefits, such as personalization, automation, and time and cost savings
 - However, there are also potential risks and drawbacks that need to be addressed, such as ethical concerns and the need for quality control
 - To successfully integrate AI, Tilburg University needs to encourage use and experimentation, involve students and young faculty, educate its staff, and get its infrastructure ready
 
 ::: goal
 Embracing AI is crucial for the university to stay relevant and competitive in the rapidly evolving landscape of higher education and research
+:::
+
+# Thanks!
+
+![QR Code](img/qr.png){width=150px}
+<br>
+Download slides at [https://tiu.nu/aiready]().
+
+:::{.columns}
+
+
+::::{.column width=70%}
+
+::: {.textbox style="padding: 0px; font-size: 14px;"}
+I __acknowledge the constructive input__ from Ellen Dreezens (TSB), Phillip Paiement (TLS), Tobias Klein (TiSEM), Ana Paley (TiSEM), Samuel Stäbler (TiSEM), Bob van den Brandt (TiSEM), and Diego Sanchez Perez (Tilburg Science Hub). 
+
+I thank Paulina Ambroziak (Tilburg Science Hub) for her research assistance.
+:::
+
+
+::::
+
+::::{.column width=10%}
+
+::::
+::::{.column width=20%}
+
+
+::::
 :::
