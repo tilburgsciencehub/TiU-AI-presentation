@@ -219,35 +219,43 @@ In __rolling out AI in Tilburg__, let's think about
 
 -->
 
-## Risks of AI for Tilburg University {.smaller}
+## Risks and opportunities {.smaller}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-__Risks of NOT embracing AI__
 
-- Losing students to other universities?
-- Falling behind in research productivity?
-- Not fulfilling our ambitious strategy (e.g., blended learning)
-- Lack of modernization of infrastructure and inability to automate
-- Possibility of students and staff using AI illegally
-- Not realizing efficiency gains (e.g., automation)
+__Risks of embracing AI__
 
+- ChatGPT = copying and cheating?  <!--(but: on-campus exams, "citability" of ChatGPT)-->
+- "Will students still learn X?" <!--(but: more feedback, more complicated problems)-->
+- Changing teaching styles and assessment <!--(but: also Powerpoint and Covid changed teaching)-->
+- Quality control when scaling up<!-- (but: firms can do it, already!)-->
+- Impact on staffing? <!--(but: we can redefine roles) <!-- , focus on new content and student coaching-->
+
+<!--- Lack of trustworthiness (but: important 21st century skill to detect it!)
+-->
 :::
 
 ::: {.column width="50%" .fragment}
 
-__Risks when embracing AI__
+__Opportunities of embracing AI__
 
-- Copying and cheating (but: on-campus exams, "citability" of ChatGPT)
-- "Students do not learn X" (but: more feedback, more complicated problems)
-- Quality control when scaling up (but: firms can do it, already!)
-- Teaching delivery (but: also Powerpoint and Covid changed teaching)
-- Staffing (but: we can redefine roles) <!-- , focus on new content and student coaching-->
-- Lack of trustworthiness (but: important 21st century skill to detect it!)
+- Using AI is relevant for students (e.g. jobs)
+- Learn novel things, deepen knowledge
+- Positive impact on research productivity 
+- Aligns with and promotes our strategy (e.g., blended learning)
+- Modern IT infrastructure
+
 :::
 
 ::::
+
+. . .
+
+::: goal
+Initial investment of time, effort, and money. But: potentially enhances quality of education and research.
+:::
 
 <!--
 - Laziness of employees
