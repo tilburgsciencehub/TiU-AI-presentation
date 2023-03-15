@@ -38,56 +38,101 @@ format:
 
 
 ## Who am I?
-- Hannes Datta; Assoc. Prof at TiU for ten years since 2013
-- Working in marketing, studying digital markets
-- Alumnus of Tilburg Young Academy
-- Lead at Tilburg Science Hub
+- [Hannes Datta](https://hannesdatta.com); Assocociate Prof. at TiU since 2013
+- Working in marketing research, studying digital markets
+- Passion for innovation (e.g., TestVision, Blended Learning, [Tilburg Young Academy](https://www.tilburguniversity.edu/nl/onderzoek/tilburg-young-academy), [Tilburg Science Hub](https://tilburgsciencehub.com))
 
 . . .
 
 **Disclaimer**
 
-- Not an AI researcher, but love technology
-- Quant researcher from TiSEM
-- Focusing on university, not workplaces
+- Not an AI researcher (but: I love technology!)
+- Researcher from TiSEM (but: talked to 10+ faculty members across schools)
+- Focus on AI &rarr; University (not: AI &rarr; workplaces)
 
 # 1. What's AI <br>(and what it's not)?{background-color="#036"}
 
-## What's AI (and what it's not)?
+## AI is everywhere
+
+:::: {.columns}
+
+::: {.column width="50%"}
+__In daily life__
+
+- Navigation (e.g., Google Maps)
+- Face recognition (e.g., iPhone)
+- Voice assistants (e.g., Alexa)
+- Search and recommendation (e.g. Bol.com)
+:::
+
+::: {.column width="50%" .fragment}
+
+__At Tilburg University__
+
+- Plagiarism detection (e.g., TurnItIn)
+- Automatic messages (e.g., Teams)
+- Voice assistants (e.g., Outlook's "play my email")
+- Text editing (e.g., "Editor" in Word or Grammarly)
+:::
+
+::::
+
+::: {.notes}
 - AI is not as new as we think
 - Algorithms are everywhere
 - Some examples of AI applications that you may have already come across:
-  - TurnItIn [Canvas tool for plagiarism]
-  - Grammarly / Editor in Office
-  - Smart email replies in Outlook, or "play my email" on mobile<br>
+:::
+
+<!--
 ...many more at futurepedia.io
+- Insert two slides here: one w/ a screenshot of my Vidi proposal and grammarly as a writing coach
+- Another one with a screenshot of futurepedia and its large catalogue of AI applications
+-->
 
 ## How does AI work?
-- Data -> Model -> Results
-- Interact, make predictions, etc.
-- Looks like a regression!
+- Data &rarr; Model &rarr; Results
 
+<!-- I need a better viz here-->
 ![<font size="2" color=grey> Data pipeline by [OVHcloud](https://www.ovhcloud.com/en-gb/public-cloud/journey-paas/ai/) </font>](img/data-pipeline.png)
 
-### ChatGPT {.smaller}
-**Innovation in ChatGPT:**
+::: {.notes}
+- Interact, make predictions, etc.
+- Looks like a regression!
+:::
 
-- Specialized API vs general-purpose AI
-- Trained on massive input data with a live connection to the internet at Bing
-- Iterative input
+### And then came ChatGPT... {.smaller}
+**What's new?**
 
-**How to use ChatGPT:**
+- Specialized AI vs general-purpose AI
+- Trained on massive input data (with internet connection at Bing)
+- Conversational (iterative input, "creative" output)
+- Language predictor model (seems to understand, but likely does not)
 
-- Put it into a specific mode [prompting]
+. . .
+
+**How to use it?**
+
+- Open [chat.openai.com]() 
+- Login; then refresh until you're in
 - Start a conversation
-
-**Background:**
-
-- It's a language predictor model
-- Generates unexpected results
+  - put it into the right mode ("prompting")
+  - keep on talking
 
 #
 ![<font color=grey> Example: use of ChatGPT </font>](img/chatgpt.png)
+
+## ChatGPT vs. OpenAI API
+
+- ChatGPT is "just" an interface
+  - make AI better
+  - get user feedback
+  
+- The __real__ value of AIs like OpenAI lies in its __integrative capabilities__ via APIs
+  - Connect to own systems using Application Programming Interfaces (APIs)
+  - Many AIs to come (__GPT-4__ releases [__yesterday!__](https://openai.com/product/gpt-4))
+    - creativity, advanced reasoning, smart (bar exam: 90th percentile, biology: 99th)
+    - used by Khan Academy (student feedback), Duolingo (conversations in foreign languages)
+
 
 # 2. How is AI already <br>being used at <br>Tilburg University?{background-color="#036"}
 
