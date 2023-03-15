@@ -1,6 +1,6 @@
 ---
 title: "Advancing Society: Getting Tilburg University AI-ready"
-subtitle: "Educate, Encourage, Experiment, Scale-up, Innovate"
+subtitle: "Educate, Encourage, Experiment, Scale-up, Invest"
 format:
   revealjs: 
     logo: img/logo.png
@@ -19,15 +19,18 @@ format:
       data-background-color: "#036"
 ---
 
-## Future Vision for Universities 
+## A Vision of the Near Future
 
-- Algorithmic approach to course allocation
-- Personalized studying experience
-- Budget allocation to course developers and teachers
-- Automated scheduling based on predicted attendance
-- Summarized lectures and slide decks for otherwise engaged students
-- Professors can focus on coaching and developing new ideas
-- AI technology revolutionizes higher education
+- Algorithmic course allocation (students &rarr; courses)
+- Personalized studying experience and modular programs
+- Novel budget allocation mechanisms
+- Automated, real-time scheduling (predicted attendance)
+- AI-facilitated blended learning (summarized content)
+- Open development with faculty and students
+
+::: goal
+AI technology ---"VughtGPT"--- has revolutionized higher education.
+:::
 
 # Agenda & Purpose
 
@@ -38,16 +41,16 @@ format:
 
 
 ## Who am I?
-- [Hannes Datta](https://hannesdatta.com); Assocociate Prof. at TiU since 2013
+- [Hannes Datta](https://hannesdatta.com); Associate Prof. at TiU since 2013
 - Working in marketing research, studying digital markets
 - Passion for innovation (e.g., TestVision, Blended Learning, [Tilburg Young Academy](https://www.tilburguniversity.edu/nl/onderzoek/tilburg-young-academy), [Tilburg Science Hub](https://tilburgsciencehub.com))
 
 . . .
 
 **Disclaimer**
-
+ 
 - Not an AI researcher (but: I love technology!)
-- Researcher from TiSEM (but: talked to 10+ faculty members across schools)
+- Researcher from TiSEM (but: talked to 10+ faculty and staff members, across schools and divisions)
 - Focus on AI &rarr; University (not: AI &rarr; workplaces)
 
 # 1. What's AI <br>(and what it's not)?{background-color="#036"}
@@ -174,10 +177,12 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 - ChatGPT is "just" an interface to OpenAI's APIs (and its latest version, ["GPT-4 API"](https://openai.c
   om/product/gpt-4), was just announced yesterday)
     - creativity, advanced reasoning (bar exam: 90th percentile, biology: 99th)
-    - Educational use: student feedback (Khan Academy), conversations in foreign languages (Duolingo)
+    - already used in education: student feedback (Khan Academy), conversations in foreign languages (Duolingo)
 
 ::: goal
-In __thinking about using AI in Tilburg__, we can apply AI __manually__ ("hey, here's an exam question - can you create 5 different versions?"), and scale up successful use cases __automatically__.
+In __rolling out AI in Tilburg__, let's think about
+(1) applying AI __manually__ ("hey, here's an exam question - can you create 5 different versions?"), and 
+(2) automating the use of AI in scaling up successful use cases.
 :::
 
 ## Future use cases for teaching {.smaller}
