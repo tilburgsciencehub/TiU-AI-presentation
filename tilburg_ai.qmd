@@ -1,6 +1,6 @@
 ---
 title: "Tilburg University:<br> AI-ready?"
-subtitle: "Educate, Encourage, Experiment, Scale-up, Invest"
+subtitle: "Educate, Encourage, Experiment, Invest"
 <!--
 author: Hannes Datta
 date: "16 March 2023"
