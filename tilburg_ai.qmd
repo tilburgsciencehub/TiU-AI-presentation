@@ -154,13 +154,21 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 
 ## How our students use AI {.smaller}
 
-- Editing and writing coach (e.g., finding good titles & writing abstracts, feedback on writing style, developing paragraph structures, synthesizing)
-- Ideation and problem solving (e.g., "which `R` package to use for X?") 
-- Fixing or annotating computer code (e.g., "I have a bug in this code - do you spot it?")
+- Searching information (e.g., much faster than Google)
+- Text editing coach (e.g., finding good titles & writing abstracts, feedback on writing style, developing paragraph structures, synthesizing)
+- Ideation and problem solving (e.g., "which `R` package to use for X?")
+- Deepening knowledge, beyond the course content (e.g., "I want to learn more about X. Where to start?")
+- Drafting, fixing or annotating computer code (e.g., "I have a bug in this code - do you spot it?")
 - A "virtual" teacher, 24/7, immediate response (e.g., "why is X important?", "can you explain how X works?")
-- Preparing for the labor market (e.g., redesigning resumes)
-- Realizing efficiencies (e.g., converting documents, taking over part of one's job)
+- Note taking during class (e.g., filling in content)
+- Preparing for the labor market (e.g., redesigning CVs)
 
+
+::: notes
+
+ (e.g. Hey chat GPT, what do you think of this letter/email in relation to its goal/objective?)
+ 
+:::
 ## How do we use it in research? {.smaller}
 
 - Writing computer code (e.g., GitHub copilot)
