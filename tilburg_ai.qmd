@@ -30,24 +30,12 @@ format:
 
 ## A Vision of the Near Future
 
-- Algorithmic allocation of students to courses
-- Personalized studying experience and modular programs
-- Novel budget allocation mechanisms
-- Automated, real-time scheduling
 - AI-facilitated blended learning
-- Developed jointly with staff, faculty and students
+- Algorithmic allocation of students to courses
+- Personalized and interdisciplinary programs
 
 ::: goal
-AI technology---"VughtGPT"--- has revolutionized higher education.
-:::
-
-::: notes
-    Algorithm allocates students to courses, ensuring that each student's unique character and interests are taken into account when deciding their academic path.
-    Personalized studying experience and modular programs that encourage curiosity and exploration, allowing students to design their own academic journey.
-    Novel budget allocation mechanisms that prioritize resources for programs and initiatives that foster a connected and caring community.
-    Automated, real-time scheduling (predicted attendance) that allows for flexibility and responsiveness to student needs, while still maintaining a sense of structure and consistency.
-    AI-facilitated blended learning (summarized content) that supports students in their academic pursuits, while also nurturing their character development and encouraging them to be curious and engaged learners.
-    Open development with faculty and students, creating a collaborative and caring culture that fosters connection and engagement within the university community.
+AI technology developed by students and faculty --- "VughtGPT" --- has revolutionized higher education.
 :::
 
 # Agenda
@@ -69,7 +57,8 @@ AI technology---"VughtGPT"--- has revolutionized higher education.
  
 - Not an AI researcher (but: I love technology!)
 - Researcher from TiSEM (but: involved 10+ faculty and staff members, across schools and divisions)
-- Focus on AI &rarr; University (not: AI &rarr; workplaces)
+
+<!--- Focus on AI &rarr; University (not: AI &rarr; workplaces)-->
 
 # 1. What's AI?{background-color="#036"}
 
@@ -80,10 +69,11 @@ AI technology---"VughtGPT"--- has revolutionized higher education.
 ::: {.column width="50%"}
 __In daily life__
 
-- Navigation (e.g., Google Maps)
-- Face recognition (e.g., iPhone)
-- Voice assistants (e.g., Alexa)
 - Search and recommendation (e.g. Bol.com)
+- Face recognition (e.g., iPhone)
+- Navigation (e.g., Google Maps)
+- Voice assistants (e.g., Alexa)
+
 :::
 
 ::: {.column width="50%" .fragment}
@@ -110,25 +100,26 @@ __At Tilburg University__
 - Another one with a screenshot of futurepedia and its large catalogue of AI applications
 -->
 
+<!--
 ## How does AI work?
 
 Data &rarr; Model &rarr; Results
 
-<!-- I need a better viz here-->
 ![<font size="2" color=grey> Data pipeline by [OVHcloud](https://www.ovhcloud.com/en-gb/public-cloud/journey-paas/ai/) </font>](img/data-pipeline.png)
 
 ::: {.notes}
 - Interact, make predictions, etc.
 - Looks like a regression!
 :::
+-->
 
 ### And then came ChatGPT... {.smaller}
 **What's new?**
 
-- Specialized AI vs. __general-purpose__ AI
+- __General-purpose AI__ (vs. specialized AI)pl
+- __Language__ model (seems to understand, but likely does not)
 - Trained on __massive data__ (with internet connection at Bing)
 - __Conversational__ (iterative input, "creative" output)
-- __Language__ model (seems to understand, but likely does not)
 
 . . .
 
@@ -167,65 +158,87 @@ Data &rarr; Model &rarr; Results
   - Creating and improving slides, generating video subtitles
   
 - Automation
-  - Semi-automated grading
   - Connect different systems
+  - Semi-automated grading
 
 
 ::: goal
 We leverage AI to efficiently improve education through engaging, multimodal, and high-quality content.
 :::
 
+### 
+
+![<font color=grey>Lecturing using AI: text-to-speech + avatar animation (by Anna Paley, TiSEM)"</font>](img/aivideo.png)
+
+
 ## How our students use AI {.smaller}
 
 - Searching information (e.g., much faster than Google)
-- Editor (e.g., finding good titles & writing abstracts, feedback on writing style, developing paragraph structures, synthesizing)
-- Ideation and problem solving (e.g., "which `R` package to use for X?")
-- Deepening knowledge, beyond the course content (e.g., "I want to learn more about X. Where to start?")
-- Drafting, fixing or annotating computer code (e.g., "I have a bug in this code - do you spot it?")
-- A "virtual" teacher, 24/7, immediate response (e.g., "why is X important?", "can you explain how X works?")
 - Note-taking during class (e.g., voice-to-text; typing & filling in gaps)
-- Preparing for the labor market (e.g., redesigning CVs)
+- Drafting, fixing or annotating computer code (e.g., "I have a bug in this code - do you spot it?")
+- Ideation and problem solving (e.g., "which `R` package to use for X?")
+- A "virtual" teacher, 24/7, immediate response (e.g., "why is X important?", "can you explain how X works?", "I want to learn more about X. Where to start?")
+- Editor (e.g., finding good titles & writing abstracts, feedback on writing style, developing paragraph structures, synthesizing; CV writing)
 
 ::: notes
 
  (e.g. Hey chat GPT, what do you think of this letter/email in relation to its goal/objective?)
  
 :::
+
+### 
+
+![<font color=grey>Text editor popular among students (Quillbot)"</font>](img/quillbot.png)
+
+
 ## How we use AI in research {.smaller}
 
-- Writing computer code (e.g., GitHub copilot)
-- Editing, proofreading (e.g., cutting words)
-- Knowledge discovery (e.g., background research, key references)
-- Ideation (e.g., generating outlines, "how to start"?)
-- Research assistant (e.g., generating stimuli, summarizing articles, transcribing interviews)
-- Automation (e.g., filling in forms, answering emails)
 - As a subject of research (e.g., method development, societal impact, legal landscape)
+- Editing, proofreading (e.g., cutting words)
+- Knowledge discovery and ideation (e.g., background research, key references, outline generation)
+- Automation (e.g., filling in forms, answering emails)
+- Research assistant (e.g., generating stimuli, summarizing articles, transcribing interviews)
+- Writing computer code (e.g., using GitHub copilot)
+
+### 
+
+![<font color=grey>Using GitHub Copilot for suggesting "the next line of code"</font>](img/copilot.png)
 
 # 3. Novel applications of AI{background-color="#036"}
 
-## Automating the use of AI {.smaller}
+## The "next big things" {.smaller}
 
-- API ecosystems ("linching pin" of the internet economy; e.g., Facebook, Spotify, Amazon Web Services)
-- ChatGPT is "just" an interface to OpenAI's APIs (and its latest version, ["GPT-4 API"](https://openai.c
-  om/product/gpt-4), was just announced yesterday)
-    - creativity, advanced reasoning
-    - passing percentiles: bar exam (90th), GRE quant. (80th), GRE verbal (99th)
-    - already used in education: student feedback (Khan Academy), conversations in foreign languages (Duolingo)
+**Release of GPT-4**
+
+- latest version, ["GPT-4"](https://openai.com/product/gpt-4), was released yesterday
+- major leap in AI: creativity, advanced reasoning
+- passing percentiles: bar exam (90th), GRE quant. (80th), GRE verbal (99th)
+
+. . .
+
+
+**Integration and automation using Application Programming Interfaces (APIs)**
+
+- API ecosystems ("linching pin" of the internet economy; e.g., Facebook, Spotify, ...)
+- Entire functionality of ChatGPT (and more) can be programmatically accessed
+- GPT-4 already used in education: student feedback (Khan Academy), conversations in foreign languages (Duolingo)
+
+. . .
 
 ::: goal
-In __rolling out AI in Tilburg__, let's think about first applying AI __manually__ ("hey, here's an exam question - can you create 5 different versions?"), and then __automating__ successful use cases.
+&rarr; AIs become smarter and can be integrated, fine-tuned & automated.
 :::
 
 ## Future use cases {.smaller}
 
 - Low-hanging fruits
-  - Aligning course content with "blended" learning strategy (e.g., updating syllabus, introducing more interactive moments)
-  - "Recycling" existing course content (old lectures) by creative cutting, format conversion, transcripting, redeveloping
   - Improving assessment (e.g., more formative testing, generation of questions)
-<br>
+  - Aligning course content with "blended" learning strategy (e.g., updating syllabus, introducing more interactive moments)
+<br><br>
 - Challenging but possible with today's technology
+  - Chat bots (e.g., student help desk, IT help desk, but also study & career coach)
   - Automating assessment (e.g., written feedback, automated grading)
-  - Chat bots (e.g., student help desk, IT help desk, study coach, career coach)
+  - "Recycling" existing course content (old lectures) by creative cutting or format conversions
 
 <!-- Example here on automated improving of exam questions 
 
@@ -243,8 +256,8 @@ __Risks of embracing AI__
 
 - ChatGPT = copying and cheating?  <!--(but: on-campus exams, "citability" of ChatGPT)-->
 - "Will students still learn X?" <!--(but: more feedback, more complicated problems)-->
-- Changing teaching styles and assessment <!--(but: also Powerpoint and Covid changed teaching)-->
-- Quality control when scaling up<!-- (but: firms can do it, already!)-->
+- How to adapt teaching methods and assessment?<!--(but: also Powerpoint and Covid changed teaching)-->
+- Quality checks when scaling up?<!-- (but: firms can do it, already!)-->
 - Impact on staffing? <!--(but: we can redefine roles) <!-- , focus on new content and student coaching-->
 
 <!--- Lack of trustworthiness (but: important 21st century skill to detect it!)
@@ -260,7 +273,6 @@ __Opportunities of embracing AI__
 - Offer novel ways to deepen knowledge and foster curiosity
 - Allow researchers to stay productive
 - Aligns with and promotes our strategy (e.g., blended learning, taking courage )
-- Modernize IT infrastructure
 
 :::
 
@@ -269,7 +281,7 @@ __Opportunities of embracing AI__
 . . .
 
 ::: goal
-Initial investment of time, effort, and money.<br> But: Potentially enhances quality of education and research.
+Initial investment of time, effort, and money. But can enhance quality of education and research.
 :::
 
 <!--
@@ -286,38 +298,35 @@ Initial investment of time, effort, and money.<br> But: Potentially enhances qua
 
 - (1) Educate staff and faculty
   - basic use of ChatGPT & use cases
-  - automation with no-coding (e.g., Power Automate) or coding tools (e.g., Python)
+  - automation with no-coding (e.g., Power Automate) or coding tools (e.g., on Datacamp)
+<br><br>
 - (2) Encourage use of AI
+  - campus license for ChatGPT --- promote use among staff, faculty and students
   - build a community, spanning schools and stakeholder groups, to exchange experiences
-  - promote use among staff, faculty and students with a campus license for ChatGPT
-- (3) Experiment what works (and what does not)
-  - gather (and publish) empirical evidence
-  - open up programmatic access to TiU infrastructure for app development
-  
+
 ## Making Tilburg AI-ready! {.smaller}
 
-- (4) Scale up
+- (3) Experiment what works (and what does not)
+  - gather (and publish) empirical evidence
+  - open up programmatic access to TiU infrastructure (e.g., app development)
   - automate successful prototypes (e.g., course overhaul, assessment)
-
-- (5) Invest in "moon shot" projects
+<br><br>
+- (4) Invest in "moonshot" projects
   - Personalization of admission requirements for courses and programs
   - "Algorithmic" and interdisciplinary study programs
-  - Real-time scheduling (including students' study rooms, "werkplekken")
+  - Real-time scheduling (including students' study rooms)
   - "Smart" budget and teaching allocation algorithms
 
 
-::: goal
-Let's take the __courage__ and be __curious__ to embrace AI technology at Tilburg University!
-:::
-
 ## Conclusion {.smaller}
-- Our faculty already explores the use of AI in various aspects of education and research -- __how does Tilburg University facilitate them?__
-- AI offers numerous benefits, such as personalization, automation, and time and cost savings
-- However, there are also potential risks and drawbacks that need to be addressed, such as ethical concerns and the need for quality control
-- To successfully integrate AI, Tilburg University needs to encourage use and experimentation, involve students and young faculty, educate its staff, and get its infrastructure ready
+- Students and some faculty already explore the use of AI in education and research
+- AI offers numerous benefits, but also risks that need to be addressed
+- To fully leverage AI, we need a clear "AI strategy" (with goals and budget)
+
+<br>
 
 ::: goal
-Embracing AI is crucial for the university to stay relevant and competitive in the rapidly evolving landscape of higher education and research
+Let's embrace AI with __courage__ and __curiosity__ to increase the quality of our education and research.
 :::
 
 # Thanks!
@@ -332,7 +341,9 @@ Download slides at [https://tiu.nu/aiready]().
 ::::{.column width=70%}
 
 ::: {.textbox style="padding: 0px; font-size: 14px;"}
-I __acknowledge the constructive input__ from Ellen Dreezens (TSB), Phillip Paiement (TLS), Tobias Klein (TiSEM), Ana Paley (TiSEM), Samuel Stäbler (TiSEM), Bob van den Brandt (TiSEM), and Diego Sanchez Perez (Tilburg Science Hub). 
+I __acknowledge the constructive input__ from Ellen Dreezens (TSB), Phillip Paiement (TLS), Tobias Klein (TiSEM), Anna Paley (TiSEM), Samuel Stäbler (TiSEM), Bob van den Brandt (TiSEM), Anton ten Klooster (TST), Bas van Nunen (IT), Puck Wildschut (LIS/DCC), Niels Boonstra (Library Science Skills), and Diego Sanchez Perez (Tilburg Science Hub).
+
+I have used DALL·E for image generation and exemplary screenshots are from ChatGPT.
 
 I thank Paulina Ambroziak (Tilburg Science Hub) for her research assistance.
 :::
