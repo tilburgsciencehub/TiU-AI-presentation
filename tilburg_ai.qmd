@@ -116,8 +116,8 @@ Data &rarr; Model &rarr; Results
 ### And then came ChatGPT... {.smaller}
 **What's new?**
 
-- __General-purpose AI__ (vs. specialized AI)pl
-- __Language__ model (seems to understand, but likely does not)
+- __General-purpose AI__ (vs. specialized AI)
+- __Language__ model (*seems* to understand)
 - Trained on __massive data__ (with internet connection at Bing)
 - __Conversational__ (iterative input, "creative" output)
 
@@ -168,7 +168,7 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 
 ### 
 
-![<font color=grey>Lecturing using AI: text-to-speech + avatar animation (by Anna Paley, TiSEM)"</font>](img/aivideo.png)
+![<font color=grey>Lecturing using AI: text-to-speech + avatar animation (by Anna Paley, TiSEM)</font>](img/aivideo.png)
 
 
 ## How our students use AI {.smaller}
@@ -188,7 +188,7 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 
 ### 
 
-![<font color=grey>Text editor popular among students (Quillbot)"</font>](img/quillbot.png)
+![<font color=grey>Text editor popular among students (Quillbot)</font>](img/quillbot.png)
 
 
 ## How we use AI in research {.smaller}
@@ -236,7 +236,7 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
   - Aligning course content with "blended" learning strategy (e.g., updating syllabus, introducing more interactive moments)
 <br><br>
 - Challenging but possible with today's technology
-  - Chat bots (e.g., student help desk, IT help desk, but also study & career coach)
+  - Chatbots (e.g., student help desk, IT help desk, but also study & career coach)
   - Automating assessment (e.g., written feedback, automated grading)
   - "Recycling" existing course content (old lectures) by creative cutting or format conversions
 
@@ -258,6 +258,7 @@ __Risks of embracing AI__
 - "Will students still learn X?" <!--(but: more feedback, more complicated problems)-->
 - How to adapt teaching methods and assessment?<!--(but: also Powerpoint and Covid changed teaching)-->
 - Quality checks when scaling up?<!-- (but: firms can do it, already!)-->
+- Less physical interaction?
 - Impact on staffing? <!--(but: we can redefine roles) <!-- , focus on new content and student coaching-->
 
 <!--- Lack of trustworthiness (but: important 21st century skill to detect it!)
@@ -313,7 +314,7 @@ Initial investment of time, effort, and money. But can enhance quality of educat
 <br><br>
 - (4) Invest in "moonshot" projects
   - Personalization of admission requirements for courses and programs
-  - "Algorithmic" and interdisciplinary study programs
+  - "Algorithmic" and interdisciplinary study programs + blended learning
   - Real-time scheduling (including students' study rooms)
   - "Smart" budget and teaching allocation algorithms
 
