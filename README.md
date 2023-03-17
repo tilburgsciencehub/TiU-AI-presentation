@@ -18,7 +18,7 @@ Just view this presentation in your browser. [Click here](https://htmlpreview.gi
 
 ## Credits
 
-This presentation was created using the Quarto publishing framewokr in R. The content was inspired by input from various colleagues at Tilburg University, see acknowledgement slide.
+This presentation was created using the Quarto publishing framework in R. The content was inspired by input from various colleagues at Tilburg University, see [acknowledgements](https://htmlpreview.github.io/?https://github.com/tilburgsciencehub/TiU-AI-presentation/blob/main/tilburg_ai.html#/thanks).
 
 ## Contact
 
