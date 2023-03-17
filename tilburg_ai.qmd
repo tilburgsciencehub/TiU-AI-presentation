@@ -168,7 +168,7 @@ We leverage AI to efficiently improve education through engaging, multimodal, an
 
 ### 
 
-![<font color=grey>Lecturing using AI: text-to-speech + avatar animation (by Anna Paley, TiSEM)</font>](img/aivideo.png)
+![<font color=grey>Lecturing using AI: text-to-speech + avatar animation ([view on YouTube](https://youtu.be/fL6QlPaXY_4), by Anna Paley, TiSEM)</font>](img/aivideo.png)
 
 
 ## How our students use AI {.smaller}
