@@ -1,0 +1,256 @@
+---
+title: "Tilburg University:<br> AI-ready?"
+subtitle: "Educate, Encourage, Experiment, Invest"
+date: "23 March 2023"
+format:
+  revealjs: 
+    logo: img/logo.png
+    slide-number: true
+    slide-level: 3
+    controls: true
+    transition: fade
+    background-transition: fade
+    preview-links: auto
+    embed-resources: true 
+    theme: theme.scss
+    #incremental: true
+    title-slide-attributes:
+      data-background-image: "img/title-background.jpg" 
+      data-background-opacity: "0.15"
+      data-background-size: cover
+      data-background-color: "#036"
+---
+
+# 1. Let's talk about AI in education {background-color="#036"}
+
+
+## Who am I? {.smaller}
+- [Hannes Datta](https://hannesdatta.com); Associate Prof. at Tilburg since 2013
+- Working in marketing research, studying digital markets
+- Passion for innovation (e.g., TestVision, Blended Learning, [Tilburg Young Academy](https://www.tilburguniversity.edu/nl/onderzoek/tilburg-young-academy), [Tilburg Science Hub](https://tilburgsciencehub.com))
+
+. . .
+
+**Disclaimer**
+ 
+- Not an AI researcher (but: I love technology!)
+- Researcher in business & economics (but: involved 10+ faculty and staff members, across schools and divisions)
+- Today: focus on teaching, not research (full deck: [https://tiu.nu/aiready]())
+
+<!--- Focus on AI &rarr; University (not: AI &rarr; workplaces)-->
+
+## AI is everywhere
+
+:::: {.columns}
+
+::: {.column width="50%"}
+__In daily life__
+
+- Search and recommendation (e.g. Bol.com)
+- Face recognition (e.g., iPhone)
+- Navigation (e.g., Google Maps)
+- Voice assistants (e.g., Alexa)
+
+:::
+
+::: {.column width="50%" .fragment}
+
+__At Tilburg University__
+
+- Plagiarism detection (e.g., TurnItIn)
+- Text editing (e.g., "Editor" in Word or Grammarly)
+- Automatic messages (e.g., Teams)
+- Voice assistants (e.g., Outlook's "play my email")
+:::
+
+::::
+
+::: {.notes}
+- AI is not as new as we think
+- Algorithms are everywhere
+- Some examples of AI applications that you may have already come across:
+:::
+
+<!--
+...many more at futurepedia.io
+- Insert two slides here: one w/ a screenshot of my Vidi proposal and grammarly as a writing coach
+- Another one with a screenshot of futurepedia and its large catalogue of AI applications
+-->
+
+<!--
+## How does AI work?
+
+Data &rarr; Model &rarr; Results
+
+![<font size="2" color=grey> Data pipeline by [OVHcloud](https://www.ovhcloud.com/en-gb/public-cloud/journey-paas/ai/) </font>](img/data-pipeline.png)
+
+::: {.notes}
+- Interact, make predictions, etc.
+- Looks like a regression!
+:::
+-->
+
+### And then came ChatGPT... {.smaller}
+**What's new?**
+
+- __General-purpose AI__ (vs. specialized AI)
+- __Language__ model (*seems* to understand)
+- Trained on __massive data__ (with internet connection at Bing)
+- __Conversational__ (iterative input, "creative" output)
+
+. . .
+
+**How to use it?**
+
+- Open [chat.openai.com]() 
+- Login & refresh until you're in
+- Start a conversation!
+
+::: {.notes}
+  - Prompting (i.e., encourage to __act__ like someone or something)
+  - Asking (i.e., your specific task)
+  - Refinement
+:::
+
+### 
+
+![<font color=grey> Examplary use of ChatGPT (for preparing my exam): Prompt, ask & refine </font>](img/chatgpt-mcquestions.png)
+
+### 
+
+![<font color=grey> Examplary use of ChatGPT (for preparing my exam): Prompt, ask & refine </font>](img/chatgpt-mcquestions2.png)
+
+
+# 2. How is AI currently used at Tilburg University?{background-color="#036"}
+
+
+## How we use AI in teaching {.smaller}
+
+- Course design and management
+  - Creating and revising exam questions
+  - Generating and/or improving syllabi and lecture outlines
+  
+- Content delivery
+  - Finding examples and case studies
+  - Creating and improving slides, generating video subtitles
+  
+- Automation
+  - Connect different systems
+  - Semi-automated grading
+
+
+::: goal
+We leverage AI to efficiently improve education through engaging, multimodal, and high-quality content.
+:::
+
+### 
+
+![<font color=grey>Lecturing using AI: text-to-speech + avatar animation (by Anna Paley, TiSEM)</font>](img/aivideo.png)
+
+
+## How our students use AI {.smaller}
+
+- Searching information (e.g., much faster than Google)
+- Note-taking during class (e.g., voice-to-text; typing & filling in gaps)
+- Drafting, fixing or annotating computer code (e.g., "I have a bug in this code - do you spot it?")
+- Ideation and problem solving (e.g., "which `R` package to use for X?")
+- A "virtual" teacher, 24/7, immediate response (e.g., "why is X important?", "can you explain how X works?", "I want to learn more about X. Where to start?")
+- Editor (e.g., finding good titles & writing abstracts, feedback on writing style, developing paragraph structures, synthesizing; CV writing)
+
+::: notes
+
+ (e.g. Hey chat GPT, what do you think of this letter/email in relation to its goal/objective?)
+ 
+:::
+
+### 
+
+![<font color=grey>Text editor popular among students (Quillbot)</font>](img/quillbot.png)
+
+# 3. Novel applications of AI{background-color="#036"}
+
+## Future use cases {.smaller}
+
+- Low-hanging fruits
+  - Improving assessment (e.g., more formative testing, generation of questions)
+  - Aligning course content with "blended" learning strategy (e.g., updating syllabus, introducing more interactive moments)
+<br><br>
+- Challenging but possible with today's technology
+  - Chatbots (e.g., student help desk, IT help desk, but also study & career coach)
+  - Automating assessment (e.g., written feedback, automated grading)
+  - "Recycling" existing course content (old lectures) by creative cutting or format conversions
+
+<!-- Example here on automated improving of exam questions 
+
+(TestVision &rarr; select "bad" exam questions &raar; improve them with a "good" prompt &raar; create new draft questions in TestVision &rarr; send email to teacher, informing about update and asking for review)
+
+-->
+
+## Risks and opportunities {.smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+__Risks of embracing AI__
+
+- ChatGPT = copying and cheating?  <!--(but: on-campus exams, "citability" of ChatGPT)-->
+- "Will students still learn X?" <!--(but: more feedback, more complicated problems)-->
+- How to adapt teaching methods and assessment?<!--(but: also Powerpoint and Covid changed teaching)-->
+- Quality checks when scaling up?<!-- (but: firms can do it, already!)-->
+- Less physical interaction?
+- Impact on staffing? <!--(but: we can redefine roles) <!-- , focus on new content and student coaching-->
+
+<!--- Lack of trustworthiness (but: important 21st century skill to detect it!)
+-->
+:::
+
+::: {.column width="50%" .fragment}
+
+__Opportunities of embracing AI__
+
+- Using AI is relevant for our students' future and society at large
+- Learning how to "use" an AI is not self-evident: that's education, too!
+- Offer novel ways to deepen knowledge and foster curiosity
+- Allow researchers to stay productive
+- Aligns with and promotes our strategy (e.g., blended learning, taking courage )
+
+:::
+
+::::
+
+. . .
+
+::: goal
+Initial investment of time, effort, and money. But can enhance quality of education and research.
+:::
+
+
+# 4. Making Tilburg AI-ready! {background-color="#036"}
+
+## Making Tilburg AI-ready! {.smaller}
+
+- (1) __Educate__ staff and faculty (e.g., use of ChatGPT, use cases, no-coding and coding tools)
+- (2) __Encourage use__ of AI (e.g., campus license, build community)
+- (3) __Experiment__ what works (and what does not; including opening up IT infrastructure)
+- (4) __Invest__ in "moonshot" projects
+  - Personalization of admission requirements for courses and programs
+  - "Algorithmic" and interdisciplinary study programs + blended learning
+  - Real-time scheduling (including students' study rooms)
+
+
+## Conclusion {.smaller}
+- Students and some faculty already explore the use of AI in education (and research)
+- AI offers numerous benefits, but also risks that need to be addressed
+- To fully leverage AI, we need a clear "AI strategy" (with goals and budget)
+
+<br>
+
+::: goal
+Let's embrace AI with __courage__ and __curiosity__ to increase the quality of our education and research.
+:::
+
+![QR Code](img/qr.png){width=150px}
+<br>
+Download slides at [https://tiu.nu/aiready]().
+
