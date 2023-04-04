@@ -315,7 +315,7 @@ Let's embrace AI with __courage__ and __curiosity__ to increase the quality of o
 
 ![QR Code](img/qr.png){width=150px}
 <br>
-Download slides at [https://tiu.nu/aiready]().
+Download slides at [https://tilburg.ai]().
 
 :::{.columns}
 
